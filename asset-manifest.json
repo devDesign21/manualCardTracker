@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/manualCardTracker/static/css/main.e4470937.chunk.css",
-    "main.js": "/manualCardTracker/static/js/main.328d1849.chunk.js",
-    "main.js.map": "/manualCardTracker/static/js/main.328d1849.chunk.js.map",
+    "main.js": "/manualCardTracker/static/js/main.631fe1f2.chunk.js",
+    "main.js.map": "/manualCardTracker/static/js/main.631fe1f2.chunk.js.map",
     "runtime-main.js": "/manualCardTracker/static/js/runtime-main.305370dc.js",
     "runtime-main.js.map": "/manualCardTracker/static/js/runtime-main.305370dc.js.map",
     "static/css/2.fe708519.chunk.css": "/manualCardTracker/static/css/2.fe708519.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe708519.chunk.css",
     "static/js/2.a9800076.chunk.js",
     "static/css/main.e4470937.chunk.css",
-    "static/js/main.328d1849.chunk.js"
+    "static/js/main.631fe1f2.chunk.js"
   ]
 }
